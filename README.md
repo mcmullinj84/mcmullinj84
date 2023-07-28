@@ -29,11 +29,11 @@ I am a Cybersecurity Professional based on the East Coast.
 
 ## Repos
 
-Please feel free to checkout my repos and projects:
+Please feel free to check out my various repos and projects:
 
 * [Coding Assignments](https://github.com/mcmullinj84/Ops-Code-Challenges) - Centered around learning coding fundamentals in Bash, Python, and PowerShell and creating automated security tools.
 
-*  Projects - This includes some group projects based around providing secure [networking solutions](https://github.com/405f0und) and [IT infrastructure](https://github.com/Industrial-Software-Solutions-MSP) for fictional businesses. More to come in the future!
+*  Projects - This includes some group projects based around providing secure [networking solutions](https://github.com/405f0und) during an acquisition and creating an [MSP IT Support Plan](https://github.com/Industrial-Software-Solutions-MSP) for fictional businesses. More to come in the future!
 
 *  [Reading Notes](https://github.com/mcmullinj84/reading-notes) - During my coursework at Code Fellows, I have maintained a reading journal to encapsulate the key takeaways I have learned through reading articles/documentation regarding cybersecurity topics.
 <!--
