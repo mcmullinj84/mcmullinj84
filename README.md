@@ -24,6 +24,7 @@ I am a Cybersecurity Professional based on the East Coast.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" title="Splunk" alt="Splunk" width="40" height="40"/>&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
