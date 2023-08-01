@@ -8,7 +8,7 @@
 
 I am a Cybersecurity Professional based on the East Coast.
 
-* Current student in Code Fellows Cybersecurity Engineering Program 📚 💻
+* Current student in Code Fellows [Cybersecurity Engineering Program](https://github.com/codefellows/seattle-cybersecurity-401d8#student-learning-outcomes) 📚 💻
 
 * US Army Veteran with strong interpersonal and technical skills 🎖️
 
