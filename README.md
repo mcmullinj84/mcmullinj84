@@ -8,7 +8,7 @@
 
 I am a Cybersecurity Professional based on the East Coast.
 
-* Current student in Code Fellows [Cybersecurity Engineering Program](https://github.com/codefellows/seattle-cybersecurity-401d8#student-learning-outcomes) 📚 💻
+* Recently completed the Code Fellows [Cybersecurity Engineering Program](https://github.com/codefellows/seattle-cybersecurity-401d8#student-learning-outcomes), currently pursuing the CompTIA Sec+ and Net+ certification 📚 💻
 
 * US Army Veteran with strong interpersonal and technical skills 🎖️
 
@@ -34,7 +34,7 @@ Please feel free to check out my various repos and projects:
 
 * [Coding Assignments](https://github.com/mcmullinj84/Ops-Code-Challenges) - Centered around learning coding fundamentals in Bash, Python, and PowerShell and creating automated security tools.
 
-*  Projects - This includes some group projects based around providing secure [networking solutions](https://github.com/405f0und) during an acquisition and creating an [MSP IT Support Plan](https://github.com/Industrial-Software-Solutions-MSP) for fictional businesses. More to come in the future!
+*  Projects - This includes some group projects ranging from being [Blue Team](https://github.com/Cerulean-Shield) during a penetration test, providing secure [networking solutions](https://github.com/405f0und) during an acquisition, and creating an [MSP IT Support Plan](https://github.com/Industrial-Software-Solutions-MSP) for fictional businesses.
 
 *  [Reading Notes](https://github.com/mcmullinj84/reading-notes) - During my coursework at Code Fellows, I have maintained a reading journal to encapsulate the key takeaways I have learned through reading articles/documentation regarding cybersecurity topics.
 <!--
