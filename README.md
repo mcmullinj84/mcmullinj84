@@ -8,7 +8,7 @@
 
 I am a Cybersecurity Professional based on the East Coast.
 
-* Recently completed the Code Fellows [Cybersecurity Engineering Program](https://github.com/codefellows/seattle-cybersecurity-401d8#student-learning-outcomes), currently pursuing the CompTIA Sec+ and Net+ certification 📚 💻
+* CompTIA Sec+ and ITF+ Certified, recently completed the Code Fellows [Cybersecurity Engineering Program](https://github.com/codefellows/seattle-cybersecurity-401d8#student-learning-outcomes), currently pursuing the CompTIA Net+ certification 📚 💻
 
 * US Army Veteran with strong interpersonal and technical skills 🎖️
 
