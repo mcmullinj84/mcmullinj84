@@ -34,9 +34,11 @@ Please feel free to check out my various repos and projects:
 
 * [Coding Assignments](https://github.com/mcmullinj84/Ops-Code-Challenges) - Centered around learning coding fundamentals in Bash, Python, and PowerShell and creating automated security tools.
 
-*  Projects - This includes some group projects ranging from being [Blue Team](https://github.com/Cerulean-Shield) during a penetration test, providing secure [networking solutions](https://github.com/405f0und) during an acquisition, and creating an [MSP IT Support Plan](https://github.com/Industrial-Software-Solutions-MSP) for fictional businesses.
+*  Projects - This includes some group projects ranging from being [Blue Team](https://github.com/Cerulean-Shield) during a penetration test, providing secure [networking solutions](https://github.com/405f0und) during an acquisition, and creating an [MSP IT Support Plan](https://github.com/Industrial-Software-Solutions-MSP) for simulated businesses.
 
-*  [Reading Notes](https://github.com/mcmullinj84/reading-notes) - During my coursework at Code Fellows, I have maintained a reading journal to encapsulate the key takeaways I have learned through reading articles/documentation regarding cybersecurity topics.
+*  [Reading Notes](https://github.com/mcmullinj84/reading-notes) - During my coursework at Code Fellows, I have maintained a reading journal to encapsulate the key takeaways I have learned through reading articles/documentation regarding cybersecurity topics. Keep up to date with emerging trends cybersecurity [here](https://github.com/mcmullinj84/reading-notes/wiki/Newsworthy-Cyber-Topics#newsworthy-cyber-topics).
+
+
 <!--
 **mcmullinj84/mcmullinj84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
